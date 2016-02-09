@@ -33,8 +33,8 @@ const models = {
     schema: {
       amount: Joi.number().positive(),
       date: Joi.date().format('YYYY-MM-DD').allow(null),
-    }
-  })
+    },
+  }),
 }
 
 
