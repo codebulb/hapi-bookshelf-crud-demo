@@ -1,6 +1,6 @@
 {
   "name": "hapi-bookshelf-crud-demo",
-  "version": "0.1.0-snapshot",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
